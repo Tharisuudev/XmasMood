@@ -240,7 +240,11 @@ img {
 
 
 /*=============== HOME ===============*/
-
+.home {
+  position: relative;
+  background: linear-gradient(180deg,
+  );
+}
 
 /*=============== ABOUT ===============*/
 
